@@ -14,8 +14,7 @@
 
 ### Project Reports
 
-[![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)](https://github.com/iamsivab/Home-Information-System-SQL-PHP/blob/master/Sivasubramanian-Text%20Mining%20Report.pdf)
-
+[![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)]
 - [Download](https://github.com/iamsivab/Home-Information-System-SQL-PHP/blob/master/Sivasubramanian-Text%20Mining%20Report.pdf) for the report.
  
 ### Related Work
