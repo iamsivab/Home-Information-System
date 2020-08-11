@@ -11,11 +11,6 @@
 
  [![Made with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.linkedin.com/in/iamsivab/) [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://www.linkedin.com/in/iamsivab/)
 
-
-### Project Reports
-
-[![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)]
-- [Download](https://github.com/iamsivab/Home-Information-System-SQL-PHP/blob/master/Sivasubramanian-Text%20Mining%20Report.pdf) for the report.
  
 ### Related Work
 
